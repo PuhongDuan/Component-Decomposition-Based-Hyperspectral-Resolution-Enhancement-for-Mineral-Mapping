@@ -16,6 +16,10 @@ ISSN = {2072-4292},
 DOI = {10.3390/rs12182903}
 }
 
+# Usage
+
+Please input your data before running Main.m
+
 
 
 
