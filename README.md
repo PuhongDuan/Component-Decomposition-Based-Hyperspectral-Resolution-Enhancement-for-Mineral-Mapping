@@ -1,6 +1,7 @@
 # This code is for paper "Component-Decomposition-Based-Hyperspectral-Resolution-Enhancement-for-Mineral-Mapping"
 
-# Please kindly cite the papers if this code is useful and helpful for your research.
+# Citation
+Please kindly cite the papers if this code is useful and helpful for your research.
 
 @Article{rs12182903,
 AUTHOR = {Duan, Puhong and Lai, Jibao and Ghamisi, Pedram and Kang, Xudong and Jackisch, Robert and Kang, Jian and Gloaguen, Richard},
