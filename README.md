@@ -6,7 +6,7 @@ ___________
 
 The code in this toolbox implements the ["Component decomposition-based hyperspectral resolution enhancement for mineral mapping"](https://www.mdpi.com/2072-4292/12/18/2903). More specifically, it is detailed as follow.
 
-![alt text](./a.jpg)
+![alt text](./GP.png)
 
 Citation
 ---------------------
